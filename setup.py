@@ -6,5 +6,5 @@ setup(name='BookLover',
       author='Akaash Kamdar',
       author_email='ak2znr@virginia.edu',
       license='MIT',
-      packages=['booklover', 'booklover_test']
+      packages=['BookLover']
       )
